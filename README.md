@@ -106,5 +106,5 @@
 <div align="center">
   <p>আল্লাহ আমাদের এই প্রচেষ্টাকে কবুল করুন এবং এটিকে হেদায়েতের অসীলা বানিয়ে দিন। আমিন।</p>
   <sub>Developed by <a href="https://github.com/saaadikur">saaadikur</a></sub>
-   <sub>Createion date 09 MAY 2026</sub>
+   <sub>on 09 MAY 2026</sub>
 </div>
