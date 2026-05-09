@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- প্রজেক্ট লোগো বা শিরোনাম -->
+  <!-- প্রজেক্ট শিরোনাম -->
   <h1>📖 Quran Live (কোরআন লাইভ)</h1>
   <p align="center">
     <strong>"আধ্যাত্মিক প্রশান্তি এবং ডিজিটাল আসক্তি মুক্তির এক আধুনিক সমাধান"</strong>
   </p>
 
-  <!-- গিটহাব ব্যাজসমূহ -->
+  <!-- গিটহাব ব্যাজসমূহ (Updated with your username: saaadikur) -->
   <p>
-    <img src="https://img.shields.io/github/license/your-username/Quran-Live?style=for-the-badge&color=2ecc71" alt="License">
-    <img src="https://img.shields.io/github/stars/your-username/Quran-Live?style=for-the-badge&color=f1c40f" alt="Stars">
-    <img src="https://img.shields.io/github/last-commit/your-username/Quran-Live?style=for-the-badge&color=3498db" alt="Last Commit">
+    <img src="https://img.shields.io/github/license/saaadikur/Quran-Live?style=for-the-badge&color=2ecc71" alt="License">
+    <img src="https://img.shields.io/github/stars/saaadikur/Quran-Live?style=for-the-badge&color=f1c40f" alt="Stars">
+    <img src="https://img.shields.io/github/last-commit/saaadikur/Quran-Live?style=for-the-badge&color=3498db" alt="Last Commit">
   </p>
 
   <h4>
@@ -70,7 +70,7 @@
 এটি একটি সওয়াব-এ-জারিয়া এবং ওপেন সোর্স প্রজেক্ট। আপনি যদি এই যাত্রায় একজন ডেভেলপার হিসেবে অবদান রাখতে চান:
 
 1. প্রথমে রিপোজিটরিটি **Fork** করুন।
-2. নতুন ফিচার ব্রাঞ্চ তৈরি করুন: `git checkout -b feature/NewAmazingFeature`
+2. আপনার নতুন ফিচার ব্রাঞ্চ তৈরি করুন: `git checkout -b feature/NewAmazingFeature`
 3. আপনার পরিবর্তনগুলো **Commit** করুন: `git commit -m 'Added some amazing feature'`
 4. ব্রাঞ্চটি **Push** করুন: `git push origin feature/NewAmazingFeature`
 5. একটি **Pull Request** ওপেন করুন।
@@ -85,5 +85,5 @@
 
 <div align="center">
   <p>আল্লাহ আমাদের এই প্রচেষ্টাকে কবুল করুন এবং এটিকে হেদায়েতের অসীলা বানিয়ে দিন। আমিন।</p>
-  <sub>স্বচ্ছ কোড এবং শুদ্ধ অন্তরের সাথে নির্মিত। ❤️</sub>
+  <sub>স্বচ্ছ কোড এবং শুদ্ধ অন্তরের সাথে নির্মিত। ❤️ | Built by <a href="https://github.com/saaadikur">saaadikur</a></sub>
 </div>
